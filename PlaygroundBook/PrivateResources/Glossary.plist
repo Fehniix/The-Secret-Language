@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Brutus</key>
+		<dict>
+			<key>Definition</key>
+			<string>**Marcus Iunius Brutus** was a politician of the Roman Republic, Ancient Rome. After betraying the man who forgave his horrible actions, he took a leading role in his assassination: **Iulius (Julius) Caesar**. 😔 From that moment onwards, the word &quot;brutus&quot; was used in Latin to mean something bad looking, aesthetically unpleasing: in Italian you would still use the word &quot;*brutto*&quot;.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1/BruteforcePage</string>
+				<key>Title</key>
+				<string>Brutus</string>
+			</dict>
+		</dict>
+		<key>Caesar Cipher</key>
+		<dict>
+			<key>Definition</key>
+			<string>The **Caesar Cipher** is an encryption technique, the most basic of all. It&apos;s called like this because the first one to use it, and thus to invent it, was Ancient Rome&apos;s Emperor **Julius Caesar**! It was used more than 2000 years ago! 🤯</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1/Introduction</string>
+				<key>Title</key>
+				<string>Caesar Cipher</string>
+			</dict>
+		</dict>
+		<key>encrypt</key>
+		<dict>
+			<key>Definition</key>
+			<string>**Encryption** is the process of &quot;changing&quot; the format of information through a secret **key**, or password, such that only people that know it can read its contents.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter1/CaesarPage</string>
+				<key>Title</key>
+				<string>Encryption</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
